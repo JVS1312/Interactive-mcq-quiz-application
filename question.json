@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "If the cost price of 12 pens is equal to the selling price of 9 pens, what is the profit percentage?",
+    "option": ["10.15%", "33.33%", "55%", "25%"],
+    "crtAns": "33.33%",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 2,
+    "question": "A number when divided by 56 leaves a remainder of 29. What will be the remainder if the same number is divided by 8?",
+    "option": ["1", "3", "5", "7"],
+    "crtAns": "5",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 3,
+    "question": "A number when divided by 56 leaves a remainder of 29. What will be the remainder if the same number is divided by 8?",
+    "option": ["1", "3", "5", "7"],
+    "crtAns": "5",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 4,
+    "question": "A number when divided by 56 leaves a remainder of 29. What will be the remainder if the same number is divided by 8?",
+    "option": ["1", "3", "5", "7"],
+    "crtAns": "5",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 5,
+    "question": "A number when divided by 56 leaves a remainder of 29. What will be the remainder if the same number is divided by 8?",
+    "option": ["1", "3", "5", "7"],
+    "crtAns": "5",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 6,
+    "question": "The ratio of ages of two people is 4:5. After 6 years, the ratio becomes 5:6. What are their present ages?",
+    "option": ["20 & 25", "24 & 30", "28 & 35", "30 & 36"],
+    "crtAns": "20 & 25",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 7,
+    "question": "If the perimeter of a square is 40 cm, what is the area of the square?",
+    "option": ["80 cm²", "100 cm²", "160 cm²", "180 cm²"],
+    "crtAns": "100 cm²",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 8,
+    "question": "A sum of money becomes 1.5 times in 3 years under simple interest. What will be the total amount in 6 years?",
+    "option": ["double", "triple", "2.5times", "1.75 times"],
+    "crtAns": "triple",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 9,
+    "question": "Two pipes can fill a tank in 12 hours and 15 hours respectively. If both pipes are opened together, how long will it take to fill the tank?",
+    "option": ["6 hours", "6.67 hours", "7 hours", "8 hours"],
+    "crtAns": "6.67 hours",
+    "userAns":null,
+    "visited":false
+  },
+  {
+    "id": 10,
+    "question": "In how many ways can the letters of the word APPLE be arranged?",
+    "option": ["60", "120", "180", "360"],
+    "crtAns": "120",
+    "userAns":null,
+    "visited":false
+  }
+]

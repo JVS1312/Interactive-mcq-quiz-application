@@ -1,0 +1,97 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+   background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    color: #000;
+    margin-bottom: 20px;
+    margin-right:50px;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    width: 700px;
+    max-width: 100%;
+}
+
+form {
+    height: 50vh;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: center;
+}
+
+.label-text {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+}
+
+
+input[type="text"],
+input[type="password"] {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+
+h2 {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 40px;
+   
+}
+a:hover{
+	text-decoration:underline;
+}
+
+p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
